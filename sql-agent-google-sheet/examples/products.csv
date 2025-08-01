@@ -1,0 +1,11 @@
+product_id,product_name,category,price,stock_quantity,supplier,last_updated
+101,Laptop Pro 15,Electronics,1299.99,25,TechCorp,2024-01-15
+102,Wireless Mouse,Electronics,29.99,150,TechCorp,2024-01-10
+103,Office Chair,Furniture,249.99,12,ComfortSeating,2024-01-12
+104,Standing Desk,Furniture,399.99,8,ComfortSeating,2024-01-08
+105,Bluetooth Headphones,Electronics,89.99,45,AudioMax,2024-01-14
+106,Coffee Maker,Appliances,199.99,30,KitchenPro,2024-01-11
+107,Notebook Set,Office Supplies,15.99,200,PaperPlus,2024-01-13
+108,Pen Pack,Office Supplies,9.99,300,PaperPlus,2024-01-09
+109,Monitor 24inch,Electronics,299.99,18,TechCorp,2024-01-16
+110,Desk Lamp,Furniture,79.99,35,ComfortSeating,2024-01-07

@@ -1,0 +1,16 @@
+id,name,email,age,department,salary,hire_date,is_active
+1,John Doe,john.doe@company.com,28,Engineering,75000,2022-01-15,true
+2,Jane Smith,jane.smith@company.com,32,Marketing,68000,2021-03-20,true
+3,Bob Johnson,bob.johnson@company.com,45,Sales,82000,2020-07-10,true
+4,Alice Brown,alice.brown@company.com,29,Engineering,77000,2022-05-12,true
+5,Charlie Wilson,charlie.wilson@company.com,38,HR,65000,2019-11-08,true
+6,Diana Davis,diana.davis@company.com,26,Marketing,62000,2023-02-14,true
+7,Edward Miller,edward.miller@company.com,41,Sales,79000,2021-09-03,false
+8,Fiona Garcia,fiona.garcia@company.com,33,Engineering,81000,2020-12-18,true
+9,George Martinez,george.martinez@company.com,36,Finance,73000,2022-08-25,true
+10,Helen Rodriguez,helen.rodriguez@company.com,30,HR,67000,2021-06-30,true
+11,Ian Lee,ian.lee@company.com,27,Engineering,74000,2023-01-09,true
+12,Julia Anderson,julia.anderson@company.com,39,Marketing,70000,2020-04-16,true
+13,Kevin Thomas,kevin.thomas@company.com,34,Sales,76000,2022-10-05,true
+14,Laura Jackson,laura.jackson@company.com,31,Finance,72000,2021-12-12,false
+15,Michael White,michael.white@company.com,42,Engineering,85000,2019-08-22,true
